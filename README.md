@@ -7,3 +7,7 @@ Para ejecutarlo, es necesario reconstruir los módulos de node usando el comando
 ```
 npm install
 ```
+
+### Demo Api GraphQL
+
+[application-graphql-demo](https://ale-backend-hospital.herokuapp.com)

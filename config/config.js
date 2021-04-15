@@ -2,4 +2,4 @@ module.exports.SEED = 'este-es-un-seed-dificil';
 
 // Google
 module.exports.CLIENT_ID =
-	'459421650483-1fv4248objac0ihobrdtcj3l80kpu8jr.apps.googleusercontent.com';
+	'696277837817-h90cg02eqmuv4ra6fq9ogahbpokscams.apps.googleusercontent.com';
